@@ -25,9 +25,9 @@ Each CSV file contains time-series environmental and solar measurement data:
 
 ## ✅ Tasks Completed
 
-- [] Data loading and cleaning
-- [] Country-wise EDA (Benin, Sierra Leone, Togo)
-- [x] Cross-country comparison
+- [x] Data loading and cleaning
+- [x] Country-wise EDA (Benin, Sierra Leone, Togo)
+- [] Cross-country comparison
 
 
 ---
